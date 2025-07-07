@@ -1,0 +1,3 @@
+jenny:password123
+guest:guestpass
+admin:admin123
