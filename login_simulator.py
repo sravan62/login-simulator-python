@@ -28,7 +28,7 @@ def log_attempt(username, success):
     f.close()
 
 def login():
-    users = load_users("users.txt")             # 4 spaces or 1 tab here
+    users = load_users("users.txt")             
     username = input("Enter username: ").strip()
     password = input("Enter password: ").strip()
 
